@@ -1,0 +1,6 @@
+---
+applications:
+ - name: kca3-Frankfurt
+   random-route: false
+   memory: 128M
+
